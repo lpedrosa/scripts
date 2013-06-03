@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/luis/Workspace/scala/playground/src/main/scala'
+let g:netrw_dirhist_2='/home/luis/Workspace/scala/recfun/src/main/scala/recfun'
+let g:netrw_dirhist_3='/home/luis/Workspace/java/spring-social-samples-master'
+let g:netrw_dirhist_4='/home/luis/Workspace/java/spring-social-samples-master/spring-social-quickstart'
+let g:netrw_dirhist_5='/home/luis/Workspace/scala/forcomp/src/main/resources'
+let g:netrw_dirhist_6='/home/luis/Workspace/javascript/pattern-tests/src/main'
